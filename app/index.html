@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no" />
+    <title>太陽系ビューア</title>
+    <meta name="description" content="JPL・NASA の公開データで動く 3D 太陽系ビューア" />
+    <meta name="theme-color" content="#04050a" />
+    <link rel="manifest" href="manifest.webmanifest" />
+    <link rel="icon" href="icons/icon-192.png" />
+    <link rel="apple-touch-icon" href="icons/icon-192.png" />
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <canvas id="view" aria-label="太陽系の 3D 表示。ドラッグで回転、ホイールやピンチで拡大縮小、天体をクリックで移動"></canvas>
+    <div id="labels"></div>
+
+    <header id="top">
+      <h1>太陽系ビューア</h1>
+      <button id="btn-list" class="narrow-only">天体一覧</button>
+      <button id="btn-home" title="太陽系の全体に戻る (Esc)">全体</button>
+      <div class="seg" role="group" aria-label="表示スケール">
+        <button id="scale-easy" aria-pressed="true">見やすい</button>
+        <button id="scale-real" aria-pressed="false">実スケール</button>
+      </div>
+      <div class="toggles" role="group" aria-label="表示する要素">
+        <button id="tg-orbits" aria-pressed="true">軌道</button>
+        <button id="tg-labels" aria-pressed="true">名前</button>
+        <button id="tg-moons" aria-pressed="true">衛星</button>
+        <button id="tg-belt" aria-pressed="true">小惑星帯</button>
+      </div>
+      <button id="btn-about">出典</button>
+    </header>
+
+    <nav id="list" aria-label="天体一覧"></nav>
+
+    <aside id="info" hidden>
+      <div class="title"><h2 id="info-name"></h2><span id="info-en"></span></div>
+      <p id="info-desc"></p>
+      <dl id="info-live" class="rows live"></dl>
+      <dl id="info-static" class="rows"></dl>
+      <p id="info-tex" class="note"></p>
+    </aside>
+
+    <p id="scale-note"></p>
+    <footer id="timebar">
+      <div class="clock"><span id="date-text"></span><span id="time-text"></span></div>
+      <div class="transport">
+        <button id="btn-slower" title="遅く / 逆再生 (←)">◀ 遅く</button>
+        <button id="btn-play" aria-pressed="true" title="再生 / 一時停止 (Space)">一時停止</button>
+        <button id="btn-faster" title="速く (→)">速く ▶</button>
+        <span id="speed-text"></span>
+      </div>
+      <div class="jump">
+        <button id="btn-now">いま</button>
+        <label>日時<input id="date-input" type="datetime-local" min="1000-01-01T00:00" max="2999-12-31T23:59" /></label>
+      </div>
+    </footer>
+
+    <dialog id="about">
+      <h2>データの出典</h2>
+      <p>位置・大きさ・自転はすべて公開データから計算しています。小惑星帯の一つひとつの点は実在の天体ではなく、分布を似せて生成したものです。</p>
+      <dl id="about-sources" class="rows"></dl>
+      <button id="about-close">閉じる</button>
+    </dialog>
+
+    <script type="module" src="js/app.js"></script>
+  </body>
+</html>

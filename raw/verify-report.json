@@ -1,0 +1,762 @@
+{
+ "generated": "2026-11-11",
+ "heliocentric": [
+  {
+   "body": "mercury",
+   "date": "1990-01-01",
+   "angleDeg": 0.0049,
+   "distKm": 146,
+   "distPct": 0.00031
+  },
+  {
+   "body": "venus",
+   "date": "1990-01-01",
+   "angleDeg": 0.00256,
+   "distKm": -1100,
+   "distPct": -0.00102
+  },
+  {
+   "body": "earth",
+   "date": "1990-01-01",
+   "angleDeg": 0.00143,
+   "distKm": -2006,
+   "distPct": -0.00136
+  },
+  {
+   "body": "mars",
+   "date": "1990-01-01",
+   "angleDeg": 0.00978,
+   "distKm": 15693,
+   "distPct": 0.00678
+  },
+  {
+   "body": "jupiter",
+   "date": "1990-01-01",
+   "angleDeg": 0.05867,
+   "distKm": 569055,
+   "distPct": 0.07385
+  },
+  {
+   "body": "saturn",
+   "date": "1990-01-01",
+   "angleDeg": 0.0562,
+   "distKm": 1177986,
+   "distPct": 0.07853
+  },
+  {
+   "body": "uranus",
+   "date": "1990-01-01",
+   "angleDeg": 0.00269,
+   "distKm": -30353,
+   "distPct": -0.00105
+  },
+  {
+   "body": "neptune",
+   "date": "1990-01-01",
+   "angleDeg": 0.00228,
+   "distKm": -345446,
+   "distPct": -0.00764
+  },
+  {
+   "body": "pluto",
+   "date": "1990-01-01",
+   "angleDeg": 0.09677,
+   "distKm": -5563452,
+   "distPct": -0.1254
+  },
+  {
+   "body": "ceres",
+   "date": "1990-01-01",
+   "angleDeg": 3.46942,
+   "distKm": 1525230,
+   "distPct": 0.38468
+  },
+  {
+   "body": "eris",
+   "date": "1990-01-01",
+   "angleDeg": 0.01552,
+   "distKm": 14286773,
+   "distPct": 0.09799
+  },
+  {
+   "body": "haumea",
+   "date": "1990-01-01",
+   "angleDeg": 0.04854,
+   "distKm": -11831373,
+   "distPct": -0.15356
+  },
+  {
+   "body": "makemake",
+   "date": "1990-01-01",
+   "angleDeg": 0.07404,
+   "distKm": -8809784,
+   "distPct": -0.11627
+  },
+  {
+   "body": "mercury",
+   "date": "2026-11-11",
+   "angleDeg": 0.0064,
+   "distKm": -98,
+   "distPct": -0.00021
+  },
+  {
+   "body": "venus",
+   "date": "2026-11-11",
+   "angleDeg": 0.00037,
+   "distKm": -631,
+   "distPct": -0.00058
+  },
+  {
+   "body": "earth",
+   "date": "2026-11-11",
+   "angleDeg": 0.00185,
+   "distKm": -2993,
+   "distPct": -0.00202
+  },
+  {
+   "body": "mars",
+   "date": "2026-11-11",
+   "angleDeg": 0.00361,
+   "distKm": -12085,
+   "distPct": -0.00503
+  },
+  {
+   "body": "jupiter",
+   "date": "2026-11-11",
+   "angleDeg": 0.02394,
+   "distKm": -333728,
+   "distPct": -0.04193
+  },
+  {
+   "body": "saturn",
+   "date": "2026-11-11",
+   "angleDeg": 0.07372,
+   "distKm": 64088,
+   "distPct": 0.00455
+  },
+  {
+   "body": "uranus",
+   "date": "2026-11-11",
+   "angleDeg": 0.00003,
+   "distKm": -786045,
+   "distPct": -0.02704
+  },
+  {
+   "body": "neptune",
+   "date": "2026-11-11",
+   "angleDeg": 0.00876,
+   "distKm": -61978,
+   "distPct": -0.00139
+  },
+  {
+   "body": "pluto",
+   "date": "2026-11-11",
+   "angleDeg": 0.0324,
+   "distKm": 4710794,
+   "distPct": 0.08836
+  },
+  {
+   "body": "ceres",
+   "date": "2026-11-11",
+   "angleDeg": 0.00197,
+   "distKm": 2314,
+   "distPct": 0.00059
+  },
+  {
+   "body": "eris",
+   "date": "2026-11-11",
+   "angleDeg": 0.00006,
+   "distKm": -2491,
+   "distPct": -0.00002
+  },
+  {
+   "body": "haumea",
+   "date": "2026-11-11",
+   "angleDeg": 0.00012,
+   "distKm": 640,
+   "distPct": 0.00001
+  },
+  {
+   "body": "makemake",
+   "date": "2026-11-11",
+   "angleDeg": 0.0001,
+   "distKm": 5580,
+   "distPct": 0.00007
+  },
+  {
+   "body": "mercury",
+   "date": "2045-06-01",
+   "angleDeg": 0.00065,
+   "distKm": -344,
+   "distPct": -0.00074
+  },
+  {
+   "body": "venus",
+   "date": "2045-06-01",
+   "angleDeg": 0.00026,
+   "distKm": 2932,
+   "distPct": 0.00273
+  },
+  {
+   "body": "earth",
+   "date": "2045-06-01",
+   "angleDeg": 0.00191,
+   "distKm": -2298,
+   "distPct": -0.00151
+  },
+  {
+   "body": "mars",
+   "date": "2045-06-01",
+   "angleDeg": 0.00052,
+   "distKm": -6201,
+   "distPct": -0.00278
+  },
+  {
+   "body": "jupiter",
+   "date": "2045-06-01",
+   "angleDeg": 0.07618,
+   "distKm": -606600,
+   "distPct": -0.08067
+  },
+  {
+   "body": "saturn",
+   "date": "2045-06-01",
+   "angleDeg": 0.11015,
+   "distKm": -664222,
+   "distPct": -0.0444
+  },
+  {
+   "body": "uranus",
+   "date": "2045-06-01",
+   "angleDeg": 0.02328,
+   "distKm": 1067135,
+   "distPct": 0.03886
+  },
+  {
+   "body": "neptune",
+   "date": "2045-06-01",
+   "angleDeg": 0.00768,
+   "distKm": 53363,
+   "distPct": 0.0012
+  },
+  {
+   "body": "pluto",
+   "date": "2045-06-01",
+   "angleDeg": 0.10367,
+   "distKm": 10602823,
+   "distPct": 0.17566
+  },
+  {
+   "body": "ceres",
+   "date": "2045-06-01",
+   "angleDeg": 1.74743,
+   "distKm": -1698069,
+   "distPct": -0.43389
+  },
+  {
+   "body": "eris",
+   "date": "2045-06-01",
+   "angleDeg": 0.01268,
+   "distKm": -6220844,
+   "distPct": -0.04448
+  },
+  {
+   "body": "haumea",
+   "date": "2045-06-01",
+   "angleDeg": 0.04667,
+   "distKm": 4873647,
+   "distPct": 0.06863
+  },
+  {
+   "body": "makemake",
+   "date": "2045-06-01",
+   "angleDeg": 0.0282,
+   "distKm": 6608865,
+   "distPct": 0.08391
+  }
+ ],
+ "satellites": [
+  {
+   "body": "moon",
+   "date": "2024-02-29",
+   "angleDeg": 0.002,
+   "distKm": 2,
+   "distPct": 0
+  },
+  {
+   "body": "phobos",
+   "date": "2024-02-29",
+   "angleDeg": 1.26,
+   "distKm": -171,
+   "distPct": -1.809
+  },
+  {
+   "body": "deimos",
+   "date": "2024-02-29",
+   "angleDeg": 0.169,
+   "distKm": -7,
+   "distPct": -0.029
+  },
+  {
+   "body": "io",
+   "date": "2024-02-29",
+   "angleDeg": 0.611,
+   "distKm": 942,
+   "distPct": 0.224
+  },
+  {
+   "body": "europa",
+   "date": "2024-02-29",
+   "angleDeg": 0.269,
+   "distKm": 10366,
+   "distPct": 1.559
+  },
+  {
+   "body": "ganymede",
+   "date": "2024-02-29",
+   "angleDeg": 0.057,
+   "distKm": 1811,
+   "distPct": 0.17
+  },
+  {
+   "body": "callisto",
+   "date": "2024-02-29",
+   "angleDeg": 0.403,
+   "distKm": 98,
+   "distPct": 0.005
+  },
+  {
+   "body": "mimas",
+   "date": "2024-02-29",
+   "angleDeg": 2.433,
+   "distKm": 2216,
+   "distPct": 1.218
+  },
+  {
+   "body": "enceladus",
+   "date": "2024-02-29",
+   "angleDeg": 0.247,
+   "distKm": 488,
+   "distPct": 0.206
+  },
+  {
+   "body": "tethys",
+   "date": "2024-02-29",
+   "angleDeg": 0.19,
+   "distKm": 115,
+   "distPct": 0.039
+  },
+  {
+   "body": "dione",
+   "date": "2024-02-29",
+   "angleDeg": 0.204,
+   "distKm": 1502,
+   "distPct": 0.399
+  },
+  {
+   "body": "rhea",
+   "date": "2024-02-29",
+   "angleDeg": 0.563,
+   "distKm": 84,
+   "distPct": 0.016
+  },
+  {
+   "body": "titan",
+   "date": "2024-02-29",
+   "angleDeg": 0.718,
+   "distKm": -17291,
+   "distPct": -1.436
+  },
+  {
+   "body": "iapetus",
+   "date": "2024-02-29",
+   "angleDeg": 1.788,
+   "distKm": -15407,
+   "distPct": -0.437
+  },
+  {
+   "body": "ariel",
+   "date": "2024-02-29",
+   "angleDeg": 0.222,
+   "distKm": -137,
+   "distPct": -0.072
+  },
+  {
+   "body": "umbriel",
+   "date": "2024-02-29",
+   "angleDeg": 0.2,
+   "distKm": 9,
+   "distPct": 0.003
+  },
+  {
+   "body": "titania",
+   "date": "2024-02-29",
+   "angleDeg": 0.063,
+   "distKm": -238,
+   "distPct": -0.054
+  },
+  {
+   "body": "oberon",
+   "date": "2024-02-29",
+   "angleDeg": 0.08,
+   "distKm": -215,
+   "distPct": -0.037
+  },
+  {
+   "body": "miranda",
+   "date": "2024-02-29",
+   "angleDeg": 1.716,
+   "distKm": 51,
+   "distPct": 0.039
+  },
+  {
+   "body": "triton",
+   "date": "2024-02-29",
+   "angleDeg": 1.922,
+   "distKm": -4,
+   "distPct": -0.001
+  },
+  {
+   "body": "charon",
+   "date": "2024-02-29",
+   "angleDeg": 0.048,
+   "distKm": 7,
+   "distPct": 0.038
+  },
+  {
+   "body": "moon",
+   "date": "2029-07-04",
+   "angleDeg": 0.006,
+   "distKm": 21,
+   "distPct": 0.005
+  },
+  {
+   "body": "phobos",
+   "date": "2029-07-04",
+   "angleDeg": 0.538,
+   "distKm": 28,
+   "distPct": 0.304
+  },
+  {
+   "body": "deimos",
+   "date": "2029-07-04",
+   "angleDeg": 0.119,
+   "distKm": -2,
+   "distPct": -0.008
+  },
+  {
+   "body": "io",
+   "date": "2029-07-04",
+   "angleDeg": 0.146,
+   "distKm": -2417,
+   "distPct": -0.571
+  },
+  {
+   "body": "europa",
+   "date": "2029-07-04",
+   "angleDeg": 1.101,
+   "distKm": 3593,
+   "distPct": 0.535
+  },
+  {
+   "body": "ganymede",
+   "date": "2029-07-04",
+   "angleDeg": 0.161,
+   "distKm": 1239,
+   "distPct": 0.116
+  },
+  {
+   "body": "callisto",
+   "date": "2029-07-04",
+   "angleDeg": 0.324,
+   "distKm": 74,
+   "distPct": 0.004
+  },
+  {
+   "body": "mimas",
+   "date": "2029-07-04",
+   "angleDeg": 1.42,
+   "distKm": 4507,
+   "distPct": 2.46
+  },
+  {
+   "body": "enceladus",
+   "date": "2029-07-04",
+   "angleDeg": 0.25,
+   "distKm": -609,
+   "distPct": -0.256
+  },
+  {
+   "body": "tethys",
+   "date": "2029-07-04",
+   "angleDeg": 0.101,
+   "distKm": 500,
+   "distPct": 0.17
+  },
+  {
+   "body": "dione",
+   "date": "2029-07-04",
+   "angleDeg": 0.459,
+   "distKm": 108,
+   "distPct": 0.029
+  },
+  {
+   "body": "rhea",
+   "date": "2029-07-04",
+   "angleDeg": 0.159,
+   "distKm": 213,
+   "distPct": 0.04
+  },
+  {
+   "body": "titan",
+   "date": "2029-07-04",
+   "angleDeg": 2.513,
+   "distKm": 26887,
+   "distPct": 2.2
+  },
+  {
+   "body": "iapetus",
+   "date": "2029-07-04",
+   "angleDeg": 0.776,
+   "distKm": 7682,
+   "distPct": 0.211
+  },
+  {
+   "body": "ariel",
+   "date": "2029-07-04",
+   "angleDeg": 0.253,
+   "distKm": -70,
+   "distPct": -0.037
+  },
+  {
+   "body": "umbriel",
+   "date": "2029-07-04",
+   "angleDeg": 0.176,
+   "distKm": 182,
+   "distPct": 0.069
+  },
+  {
+   "body": "titania",
+   "date": "2029-07-04",
+   "angleDeg": 0.252,
+   "distKm": -456,
+   "distPct": -0.105
+  },
+  {
+   "body": "oberon",
+   "date": "2029-07-04",
+   "angleDeg": 0.074,
+   "distKm": 804,
+   "distPct": 0.138
+  },
+  {
+   "body": "miranda",
+   "date": "2029-07-04",
+   "angleDeg": 1.167,
+   "distKm": -6,
+   "distPct": -0.004
+  },
+  {
+   "body": "triton",
+   "date": "2029-07-04",
+   "angleDeg": 7.477,
+   "distKm": 11,
+   "distPct": 0.003
+  },
+  {
+   "body": "charon",
+   "date": "2029-07-04",
+   "angleDeg": 0.014,
+   "distKm": 2,
+   "distPct": 0.009
+  },
+  {
+   "body": "moon",
+   "date": "2035-01-20",
+   "angleDeg": 0.009,
+   "distKm": -20,
+   "distPct": -0.005
+  },
+  {
+   "body": "phobos",
+   "date": "2035-01-20",
+   "angleDeg": 2.491,
+   "distKm": 16,
+   "distPct": 0.167
+  },
+  {
+   "body": "deimos",
+   "date": "2035-01-20",
+   "angleDeg": 0.049,
+   "distKm": -7,
+   "distPct": -0.028
+  },
+  {
+   "body": "io",
+   "date": "2035-01-20",
+   "angleDeg": 0.698,
+   "distKm": -39,
+   "distPct": -0.009
+  },
+  {
+   "body": "europa",
+   "date": "2035-01-20",
+   "angleDeg": 0.865,
+   "distKm": -9433,
+   "distPct": -1.396
+  },
+  {
+   "body": "ganymede",
+   "date": "2035-01-20",
+   "angleDeg": 0.1,
+   "distKm": 1319,
+   "distPct": 0.123
+  },
+  {
+   "body": "callisto",
+   "date": "2035-01-20",
+   "angleDeg": 0.217,
+   "distKm": 65,
+   "distPct": 0.003
+  },
+  {
+   "body": "mimas",
+   "date": "2035-01-20",
+   "angleDeg": 3.714,
+   "distKm": 1580,
+   "distPct": 0.868
+  },
+  {
+   "body": "enceladus",
+   "date": "2035-01-20",
+   "angleDeg": 1.104,
+   "distKm": 541,
+   "distPct": 0.227
+  },
+  {
+   "body": "tethys",
+   "date": "2035-01-20",
+   "angleDeg": 0.293,
+   "distKm": 370,
+   "distPct": 0.125
+  },
+  {
+   "body": "dione",
+   "date": "2035-01-20",
+   "angleDeg": 0.157,
+   "distKm": -962,
+   "distPct": -0.254
+  },
+  {
+   "body": "rhea",
+   "date": "2035-01-20",
+   "angleDeg": 0.531,
+   "distKm": -11,
+   "distPct": -0.002
+  },
+  {
+   "body": "titan",
+   "date": "2035-01-20",
+   "angleDeg": 2.965,
+   "distKm": 21568,
+   "distPct": 1.749
+  },
+  {
+   "body": "iapetus",
+   "date": "2035-01-20",
+   "angleDeg": 2.327,
+   "distKm": -2899,
+   "distPct": -0.084
+  },
+  {
+   "body": "ariel",
+   "date": "2035-01-20",
+   "angleDeg": 0.132,
+   "distKm": -150,
+   "distPct": -0.078
+  },
+  {
+   "body": "umbriel",
+   "date": "2035-01-20",
+   "angleDeg": 0.144,
+   "distKm": 92,
+   "distPct": 0.034
+  },
+  {
+   "body": "titania",
+   "date": "2035-01-20",
+   "angleDeg": 0.236,
+   "distKm": -472,
+   "distPct": -0.108
+  },
+  {
+   "body": "oberon",
+   "date": "2035-01-20",
+   "angleDeg": 0.085,
+   "distKm": -680,
+   "distPct": -0.116
+  },
+  {
+   "body": "miranda",
+   "date": "2035-01-20",
+   "angleDeg": 1.534,
+   "distKm": -17,
+   "distPct": -0.013
+  },
+  {
+   "body": "triton",
+   "date": "2035-01-20",
+   "angleDeg": 2.074,
+   "distKm": 10,
+   "distPct": 0.003
+  },
+  {
+   "body": "charon",
+   "date": "2035-01-20",
+   "angleDeg": 0.081,
+   "distKm": 5,
+   "distPct": 0.027
+  }
+ ],
+ "rotation": [
+  {
+   "body": "earth",
+   "mine": {
+    "lat": -17.5,
+    "lonE": 358.15
+   },
+   "horizons": {
+    "lat": -17.607657,
+    "lonE": 358.06
+   },
+   "dLon": 0.09,
+   "dLat": 0.11
+  },
+  {
+   "body": "mars",
+   "mine": {
+    "lat": 8.53,
+    "lonE": 146.39
+   },
+   "horizons": {
+    "lat": 8.631987,
+    "lonE": 146.39
+   },
+   "dLon": 0,
+   "dLat": -0.1
+  },
+  {
+   "body": "jupiter",
+   "mine": {
+    "lat": 0.15,
+    "lonE": 228.7
+   },
+   "horizons": {
+    "lat": 0.17421,
+    "lonE": 228.68
+   },
+   "dLon": 0.02,
+   "dLat": -0.02
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+node_modules/
+dist/
+# 取得したままの元画像・作業用の中間物(完成品は app/textures/ にある)
+raw/tex/
+raw/thumbs/
+raw/icon.iconset/
+raw/sheet.*
+raw/npm-install.log
+raw/electron-selftest.log
+.DS_Store
